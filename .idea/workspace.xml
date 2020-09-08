@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d419b60-a3ae-4bc7-8cc1-d650cd069eef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="2d419b60-a3ae-4bc7-8cc1-d650cd069eef" name="Default Changelist" comment="license 추가">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/example/LICENSE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_channel_io/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_channel_io/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_channel_io/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_channel_io/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Classes/SwiftFlutterChannelIoPlugin.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/SwiftFlutterChannelIoPlugin.swift" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,29 +49,53 @@
       <option name="presentableId" value="Default" />
       <updated>1599550488898</updated>
     </task>
+    <task id="LOCAL-00001" summary="license 추가">
+      <created>1599569315369</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599569315369</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="license 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="license 추가" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="875" height="331" key="GridCell.Tab.0.bottom" timestamp="1599569162167">
+    <state x="603" y="179" key="CommitChangelistDialog2" timestamp="1599569315153">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="603" y="179" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1599569315153" />
+    <state x="310" y="127" key="DiffContextDialog" timestamp="1599569311451">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="310" y="127" key="DiffContextDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1599569311451" />
+    <state width="875" height="331" key="GridCell.Tab.0.bottom" timestamp="1599581282106">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="1750" height="331" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1599568297987" />
-    <state width="875" height="331" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1599569162167" />
-    <state width="875" height="331" key="GridCell.Tab.0.center" timestamp="1599569162166">
+    <state width="875" height="331" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1599581282106" />
+    <state width="875" height="331" key="GridCell.Tab.0.center" timestamp="1599581282105">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="1750" height="331" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1599568297986" />
-    <state width="875" height="331" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1599569162166" />
-    <state width="875" height="331" key="GridCell.Tab.0.left" timestamp="1599569162165">
+    <state width="875" height="331" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1599581282105" />
+    <state width="875" height="331" key="GridCell.Tab.0.left" timestamp="1599581282105">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="1750" height="331" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1599568297985" />
-    <state width="875" height="331" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1599569162165" />
-    <state width="875" height="331" key="GridCell.Tab.0.right" timestamp="1599569162166">
+    <state width="875" height="331" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1599581282105" />
+    <state width="875" height="331" key="GridCell.Tab.0.right" timestamp="1599581282106">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state width="1750" height="331" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1599568297986" />
-    <state width="875" height="331" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1599569162166" />
+    <state width="875" height="331" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1599581282106" />
+    <state x="627" y="316" key="Vcs.Push.Dialog.v2" timestamp="1599569323940">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="627" y="316" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1599569323940" />
     <state x="548" y="317" width="695" height="486" key="find.popup" timestamp="1599567899260">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
