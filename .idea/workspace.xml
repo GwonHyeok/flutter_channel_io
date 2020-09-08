@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d419b60-a3ae-4bc7-8cc1-d650cd069eef" name="Default Changelist" comment="license 추가">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_channel_io/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_channel_io/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_channel_io/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/flutter_channel_io/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Classes/SwiftFlutterChannelIoPlugin.swift" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Classes/SwiftFlutterChannelIoPlugin.swift" afterDir="false" />
+    <list default="true" id="2d419b60-a3ae-4bc7-8cc1-d650cd069eef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,22 +52,30 @@
       <option name="project" value="LOCAL" />
       <updated>1599569315369</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ios initPushToken">
+      <created>1599582138592</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599582138592</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="license 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="license 추가" />
+    <MESSAGE value="ios initPushToken" />
+    <option name="LAST_COMMIT_MESSAGE" value="ios initPushToken" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="603" y="179" key="CommitChangelistDialog2" timestamp="1599569315153">
+    <state x="603" y="179" key="CommitChangelistDialog2" timestamp="1599582173339">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="603" y="179" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1599569315153" />
-    <state x="310" y="127" key="DiffContextDialog" timestamp="1599569311451">
+    <state x="603" y="179" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1599582173339" />
+    <state x="310" y="127" key="DiffContextDialog" timestamp="1599582135248">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="310" y="127" key="DiffContextDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1599569311451" />
+    <state x="310" y="127" key="DiffContextDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1599582135248" />
     <state width="875" height="331" key="GridCell.Tab.0.bottom" timestamp="1599581282106">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
