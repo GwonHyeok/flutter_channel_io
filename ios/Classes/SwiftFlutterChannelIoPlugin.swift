@@ -87,6 +87,25 @@ public class SwiftFlutterChannelIoPlugin: NSObject, FlutterPlugin {
             
             break
             
+        case "initPushToken":
+            guard let args = call.arguments as? [String: Any] else {
+                result(false)
+                return
+            }
+            
+            guard let token: String = args["token"] as? String else {
+                result(FlutterError(
+                    code: "ARGUMENT_ERROR",
+                    message: "token is not set",
+                    details: "토큰이 설정되어있지 않습니다."
+                ))
+                return
+            }
+            
+            ChannelIO.initPushToken(tokenString: token)
+            result(true)
+            break
+            
         case "open":
             ChannelIO.open(animated: true)
             result(true)
