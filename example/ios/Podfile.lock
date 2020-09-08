@@ -1,0 +1,144 @@
+PODS:
+  - Alamofire (5.2.2)
+  - ChannelIO (7.2.6):
+    - Alamofire (~> 5.2)
+    - CHDwifft
+    - JGProgressHUD
+    - MGSwipeTableCell
+    - NVActivityIndicatorView (~> 4.7)
+    - ObjectMapper (~> 4.2)
+    - PhoneNumberKit (~> 3.1)
+    - ReSwift (~> 5.0)
+    - Reusable (~> 4.1)
+    - RxCocoa (~> 5.1)
+    - RxSwift (~> 5.1)
+    - RxSwiftExt (~> 5.2)
+    - SDWebImage (~> 5.8)
+    - SDWebImageWebPCoder
+    - SnapKit (~> 5.0)
+    - Socket.IO-Client-Swift (~> 15.0.0)
+    - SwiftyJSON (~> 5.0)
+    - TLPhotoPicker
+  - CHDwifft (0.8.2)
+  - Flutter (1.0.0)
+  - flutter_channel_io (0.0.1):
+    - ChannelIO (~> 7.2)
+    - Flutter
+  - JGProgressHUD (2.1)
+  - libwebp (1.1.0):
+    - libwebp/demux (= 1.1.0)
+    - libwebp/mux (= 1.1.0)
+    - libwebp/webp (= 1.1.0)
+  - libwebp/demux (1.1.0):
+    - libwebp/webp
+  - libwebp/mux (1.1.0):
+    - libwebp/demux
+  - libwebp/webp (1.1.0)
+  - MGSwipeTableCell (1.6.11)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - ObjectMapper (4.2.0)
+  - PhoneNumberKit (3.2.0):
+    - PhoneNumberKit/PhoneNumberKitCore (= 3.2.0)
+    - PhoneNumberKit/UIKit (= 3.2.0)
+  - PhoneNumberKit/PhoneNumberKitCore (3.2.0)
+  - PhoneNumberKit/UIKit (3.2.0):
+    - PhoneNumberKit/PhoneNumberKitCore
+  - ReSwift (5.0.0)
+  - Reusable (4.1.1):
+    - Reusable/Storyboard (= 4.1.1)
+    - Reusable/View (= 4.1.1)
+  - Reusable/Storyboard (4.1.1)
+  - Reusable/View (4.1.1)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - RxSwiftExt (5.2.0):
+    - RxSwiftExt/Core (= 5.2.0)
+    - RxSwiftExt/RxCocoa (= 5.2.0)
+  - RxSwiftExt/Core (5.2.0):
+    - RxSwift (~> 5.0)
+  - RxSwiftExt/RxCocoa (5.2.0):
+    - RxCocoa (~> 5.0)
+    - RxSwiftExt/Core
+  - SDWebImage (5.9.0):
+    - SDWebImage/Core (= 5.9.0)
+  - SDWebImage/Core (5.9.0)
+  - SDWebImageWebPCoder (0.6.1):
+    - libwebp (~> 1.0)
+    - SDWebImage/Core (~> 5.7)
+  - SnapKit (5.0.1)
+  - Socket.IO-Client-Swift (15.0.0):
+    - Starscream (~> 3.1)
+  - Starscream (3.1.1)
+  - SwiftyJSON (5.0.0)
+  - TLPhotoPicker (2.0.12)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_channel_io (from `.symlinks/plugins/flutter_channel_io/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ChannelIO
+    - CHDwifft
+    - JGProgressHUD
+    - libwebp
+    - MGSwipeTableCell
+    - NVActivityIndicatorView
+    - ObjectMapper
+    - PhoneNumberKit
+    - ReSwift
+    - Reusable
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - RxSwiftExt
+    - SDWebImage
+    - SDWebImageWebPCoder
+    - SnapKit
+    - Socket.IO-Client-Swift
+    - Starscream
+    - SwiftyJSON
+    - TLPhotoPicker
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_channel_io:
+    :path: ".symlinks/plugins/flutter_channel_io/ios"
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  ChannelIO: b7d3463c3655d511dca5cc04455f3937782c4063
+  CHDwifft: 11871cb81a6a391f844856c074622df07d19d372
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_channel_io: 6ceee29affa76e1bbc848c4e650fac13c3f6d7e4
+  JGProgressHUD: aa403e9a5b45cae98903c4600cccdd98c0c3ec90
+  libwebp: 946cb3063cea9236285f7e9a8505d806d30e07f3
+  MGSwipeTableCell: b804e4e450dee439c42250be90bd50458bf67fce
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  PhoneNumberKit: df411d46177d1492da84e10b6c093846dd861452
+  ReSwift: 628f1a9b3ee52e3b3ca2a644435472fd77afafe1
+  Reusable: 53a9acf5c536f229b31b5865782414b508252ddb
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  RxSwiftExt: 4ca80336f43c28f11a2825cdd2fc61dd6c044697
+  SDWebImage: 62ae4a18473520c67b79e9724c31a63599cc9423
+  SDWebImageWebPCoder: d0dac55073088d24b2ac1b191a71a8f8d0adac21
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  Socket.IO-Client-Swift: c039a808195d22a7192962841b8c035cb61ea49e
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  TLPhotoPicker: 36001f4500867fea336c773c6013d6000e512a31
+
+PODFILE CHECKSUM: fe0e1ee7f3d1f7d00b11b474b62dd62134535aea
+
+COCOAPODS: 1.9.1

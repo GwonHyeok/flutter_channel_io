@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d419b60-a3ae-4bc7-8cc1-d650cd069eef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hDfGdaRtwEVomHEGI92qzWcOUN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/example/android/src/main/kotlin/io/ghyeok/channel/flutter/example" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="io.ghyeok.channel.flutter" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/example/android/src/main/kotlin/io/ghyeok/channel/flutter/example" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d419b60-a3ae-4bc7-8cc1-d650cd069eef" name="Default Changelist" comment="" />
+      <created>1599550488898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599550488898</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="875" height="331" key="GridCell.Tab.0.bottom" timestamp="1599569162167">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="331" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1599568297987" />
+    <state width="875" height="331" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1599569162167" />
+    <state width="875" height="331" key="GridCell.Tab.0.center" timestamp="1599569162166">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="331" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1599568297986" />
+    <state width="875" height="331" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1599569162166" />
+    <state width="875" height="331" key="GridCell.Tab.0.left" timestamp="1599569162165">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="331" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1599568297985" />
+    <state width="875" height="331" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1599569162165" />
+    <state width="875" height="331" key="GridCell.Tab.0.right" timestamp="1599569162166">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1750" height="331" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1599568297986" />
+    <state width="875" height="331" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1599569162166" />
+    <state x="548" y="317" width="695" height="486" key="find.popup" timestamp="1599567899260">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="548" y="317" width="695" height="486" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1599567899260" />
+    <state x="866" y="268" width="670" height="676" key="search.everywhere.popup" timestamp="1599568760350">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="866" y="268" width="670" height="676" key="search.everywhere.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1599568760350" />
+    <state x="626" y="404" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1599567680821">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="626" y="404" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1599567680821" />
+  </component>
+</project>
